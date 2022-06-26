@@ -1,4 +1,4 @@
 # Light/Dark Mode
 
-## Gift
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+## Example
+![Dark Mode working](https://raw.githubusercontent.com/alexisxz/dark-light-mode/main/dark-mode.gif)
